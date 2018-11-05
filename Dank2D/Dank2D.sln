@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dank2D", "Dank2D\Dank2D.vcxproj", "{287BD27E-F35C-439C-A759-551E5A2049D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{287BD27E-F35C-439C-A759-551E5A2049D6}.Debug|x64.ActiveCfg = Debug|x64
+		{287BD27E-F35C-439C-A759-551E5A2049D6}.Debug|x64.Build.0 = Debug|x64
+		{287BD27E-F35C-439C-A759-551E5A2049D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{287BD27E-F35C-439C-A759-551E5A2049D6}.Debug|x86.Build.0 = Debug|Win32
+		{287BD27E-F35C-439C-A759-551E5A2049D6}.Release|x64.ActiveCfg = Release|x64
+		{287BD27E-F35C-439C-A759-551E5A2049D6}.Release|x64.Build.0 = Release|x64
+		{287BD27E-F35C-439C-A759-551E5A2049D6}.Release|x86.ActiveCfg = Release|Win32
+		{287BD27E-F35C-439C-A759-551E5A2049D6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C2CEAFA-02A7-4BC4-A99E-9AF5E9C4A431}
+	EndGlobalSection
+EndGlobal
